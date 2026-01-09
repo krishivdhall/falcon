@@ -1,0 +1,17 @@
+# Falcon AI Pro - Requirements
+
+eel
+openai
+python-dotenv
+google-genai
+pandas
+numpy
+pollinations
+Pillow
+requests
+pygame
+edge-tts
+psutil
+pyautogui
+pywhatkit
+pyperclip
